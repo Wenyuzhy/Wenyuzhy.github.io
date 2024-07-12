@@ -15,7 +15,7 @@ Hello everyone, my name is **Huiyu Zhai**, and I am an undergraduate student at 
 - Data Mining
 
 ## Qualifications
-- 计算机软件能力认证 (340)
+- 计算机软件能力认证-340
 - 中级软件设计师
 - 普通话水平测试二乙
 - 英语四级
