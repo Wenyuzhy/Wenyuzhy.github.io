@@ -9,18 +9,18 @@ redirect_from:
 Hello everyone, my name is **Huiyu Zhai**, and I am an undergraduate student at Hunan University of Science and Technology.
 
 ## Research Interests
-* Computer Vision
-* Deep Learning
-* Data Mining
+- Computer Vision
+- Deep Learning
+- Data Mining
 
 ## Publication
 - **Huiyu Zhai**, Mo Chen, Xingxing Yang* and Guosheng Kang. Multi-scale HSV Color Feature Embedding for High-fidelity NIR-to-RGB Spectrum Translation. IEEE SMC, 2024 (CCF C)
 
 ## Qualifications
-* 计算机软件能力认证-340
-* 中级软件设计师
-* 普通话水平测试二乙
-* 英语四级
+- 计算机软件能力认证-340
+- 中级软件设计师
+- 普通话水平测试二乙
+- 英语四级
 
 ## Awards
 - 2023.05 第十四届蓝桥杯大赛湖南赛区C/C++程序设计大学B组二等奖
