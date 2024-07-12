@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huiyu Zhai (陈琪琪)"
+  name             : "Huiyu Zhai (翟惠宇)"
   avatar           : "蓝.png"
   bio              : "Undergraduate student majoring in Data Science and Big Data Technology"
   location         : "China"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  csdn             : "https://blog.csdn.net/weixin_63260303"
 
 # Reading Files
 include:
