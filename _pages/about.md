@@ -12,7 +12,7 @@ Hello everyone, my name is **Huiyu Zhai**, and I am an undergraduate student at 
 * Computer Vision
 
 ## Publication
-- **Huiyu Zhai**, Mo Chen, Xingxing Yang* and Guosheng Kang. Multi-scale HSV Color Feature Embedding for High-fidelity NIR-to-RGB Spectrum Translation. IEEE SMC, 2024(CCF C)
+- **Huiyu Zhai**, Mo Chen, Xingxing Yang* and Guosheng Kang. Multi-scale HSV Color Feature Embedding for High-fidelity NIR-to-RGB Spectrum Translation. IEEE SMC, 2024 (CCF C)
 
 ## Qualification
 * Intermediate Software Designer
