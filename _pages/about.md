@@ -7,15 +7,34 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am **Qiqi Chen**, an undergraduate student at Hunan University of Science and Technology. My codename is "*77". In computing, the asterisk is used as a multiplication symbol. You can hear my Chinese name when you quickly press "×" and two "7" on a speech calculator.
+Hello everyone, my name is **Huiyu Zhai**, and I am an undergraduate student at Hunan University of Science and Technology.
 
-## Research Interest
+## Research Interests
+- Computer Vision
+- Deep Learning
+- Data Mining
 
-* Service Computing
+## Qualifications
+- 计算机软件能力认证 (340)
+- 中级软件设计师
+- 普通话水平测试二乙
+- 英语四级
 
-## Publications
+## Awards
+### Competition
+- 2023.05 第十四届蓝桥杯大赛湖南赛区C/C++程序设计大学B组二等奖
+- 2023.11 第六届“传智杯”全国IT技能大赛-程序设计挑战赛道大学B组三等奖
+- 2023.12 2023年第五届全国高校计算机能力挑战赛程序设计挑战赛全国决赛本研组二等奖
+- 2024.04 第十五届蓝桥杯大赛湖南赛区C/C++程序设计大学B组二等奖
+- 2024.05 2024年全国大学生高新技术竞赛-算法智星挑战赛大学B组全国二等奖
+- 2024.05 2024年大学生信息系统创新大赛-“开发者”算法编程挑战赛C语言赛道初赛一等奖
+- 2024.05 2024年中国计算机应用技术大赛-全国算法精英大赛本科B组南部赛区三等奖
+- 2024.06 2024年码蹄杯全国大学生程序设计大赛省赛本科组银奖
+### Practice
+- 2022.04 院优秀共青团干部
+- 2022.12 校综合奖学金三等奖
+- 2022.12 校优秀心理委员
+- 2023.10 院三好学生
+- 2023.10 院优秀心理委员
+- 2023.11 校综合奖学金三等奖
 
-- **Qiqi Chen**, Guosheng Kang*, Yamei Nie, Jianxun Liu, Buqing Cao. A General Complementary Web API Recommendation Framework based on Learning Model. IEEE International Conference on Web Services. IEEE Computer Society, 2024. (CCF B)
-- Wanjun Chen, **Qiqi Chen**, Jiexun Shen, Guosheng Kang*, Jianxun Liu, Buqing Cao, Lihong Zhang. Interactive Web API Recommendation via Exploring Mashup-API Interactions and Functional Description Documents. International Conference on Computer Supported Cooperative Work in Design. IEEE Computer Society, pp. 121-126, 2024. (CCF C)
-- Weike Zhou, Xiaokang Zhou, Jing He, Yamei Nie, **Qiqi Chen**, Guosheng Kang*. Online Course Recommendation by Exploring User Interaction and Course Description. International Conference on Computer Supported Cooperative Work in Design. IEEE Computer Society, pp. 2973-2979, 2024. (CCF C)
-- Lihong Zhang, Jing He, Yamei Nie, Xiaokang Zhou, **Qiqi Chen**, Guosheng Kang*. JMF-SS: Joint Matrix Factorization for Web API Recommendation with Mashup-Mashup Similarities and API-API Similarities. International Conference on Computer Supported Cooperative Work in Design. IEEE Computer Society, pp. 1219-1224, 2024. (CCF C)
