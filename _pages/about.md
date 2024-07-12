@@ -14,6 +14,9 @@ Hello everyone, my name is **Huiyu Zhai**. I am an undergraduate student at Huna
 - Deep Learning
 - Data Mining
 
+## Publication
+- **Huiyu Zhai**, Mo Chen, Xingxing Yang* and Guosheng Kang. Multi-scale HSV Color Feature Embedding for High-fidelity NIR-to-RGB Spectrum Translation. IEEE SMC, 2024 (CCF C)
+
 ## Qualifications
 - 计算机软件能力认证(CSP) - 340
 - 中级软件设计师
