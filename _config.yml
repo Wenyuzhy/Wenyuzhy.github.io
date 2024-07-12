@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  csdn             : "https://blog.csdn.net/weixin_63260303"
+  #csdn             : "https://blog.csdn.net/weixin_63260303"
 
 # Reading Files
 include:
