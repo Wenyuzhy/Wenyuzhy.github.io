@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello everyone, my name is **Huiyu Zhai**, and I am an undergraduate student at Hunan University of Science and Technology.
+Hello everyone, my name is **Huiyu Zhai**. I am an undergraduate student at Hunan University of Science and Technology, majoring in Data Science and Big Data Technology.
 
 ## Research Interests
 - Computer Vision
