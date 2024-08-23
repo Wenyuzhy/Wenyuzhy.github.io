@@ -16,12 +16,14 @@ Hello everyone, my name is **Huiyu Zhai**. I am an undergraduate student at Huna
 
 ## Publication
 - **Huiyu Zhai**, Mo Chen, Xingxing Yang* and Guosheng Kang. Multi-scale HSV Color Feature Embedding for High-fidelity NIR-to-RGB Spectrum Translation. IEEE SMC, 2024 (CCF C)
+- **Huiyu Zhai**, Guang Jin, Xingxing Yang*, and Guosheng Kang. ColorMamba: Towards High‑quality NIR‑to‑RGB Spectral Translation with Mamba. JMLR Asian Conference on Machine Learning, 2024. (under review) (CCF‑C)
+
 
 ## Qualifications
+- 英语六级
 - 计算机软件能力认证(CSP) - 340
 - 中级软件设计师
 - 普通话水平测试二乙
-- 英语四级
 
 ## Awards
 ### Competition
@@ -36,6 +38,7 @@ Hello everyone, my name is **Huiyu Zhai**. I am an undergraduate student at Huna
 - 2024.07 2024年百度之星本科组省赛铜牌
 - 2024.07 2024年码蹄杯全国大学生程序设计大赛国赛本科组银奖
 - 2024.07 2024睿抗机器人开发者大赛(RAICOM)编程技能赛竞赛项目省赛本科组二等奖
+- 2024.08 2024睿抗机器人开发者大赛(RAICOM)编程技能赛竞赛项目国赛本科组三等奖
 
 ### Practice
 - 2022.04 院优秀共青团干部
