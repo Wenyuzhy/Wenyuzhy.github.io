@@ -15,8 +15,8 @@ Hello everyone, my name is **Huiyu Zhai**. I am an undergraduate student at Huna
 - Data Mining
 
 ## Publication
-- **Huiyu Zhai**, Mo Chen, Xingxing Yang* and Guosheng Kang. Multi-scale HSV Color Feature Embedding for High-fidelity NIR-to-RGB Spectrum Translation. IEEE SMC, 2024 (CCF C)
-- **Huiyu Zhai**, Guang Jin, Xingxing Yang*, and Guosheng Kang. ColorMamba: Towards High‑quality NIR‑to‑RGB Spectral Translation with Mamba. JMLR Asian Conference on Machine Learning, 2024. (under review) (CCF‑C)
+- **Huiyu Zhai**, Mo Chen, Xingxing Yang* and Guosheng Kang. Multi-scale HSV Color Feature Embedding for High-fidelity NIR-to-RGB Spectrum Translation. IEEE SMC, 2024. (CCF C)
+- **Huiyu Zhai**, Guang Jin, Xingxing Yang*, and Guosheng Kang. ColorMamba: Towards High‑quality NIR‑to‑RGB Spectral Translation with Mamba. JMLR Asian Conference on Machine Learning, 2024. (CCF‑C) (录用率 26%)
 
 
 ## Qualifications
