@@ -40,6 +40,8 @@ Hello everyone, my name is **Huiyu Zhai**. I am an undergraduate student at Huna
 - 2023.05 第十四届蓝桥杯大赛湖南赛区C/C++程序设计大学B组二等奖
 
 ### Practice
+**HNUST**
+- 2025.03 校优秀毕业生
 - 2024.09 校综合奖学金一等奖
 - 2024.09 校三好学生
 - 2024.09 校学术研究先进个人
